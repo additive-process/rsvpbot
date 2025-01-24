@@ -1,5 +1,6 @@
 # rsvpbot
 Discord bot that sends RSVP-ers' info to the event organizer.
+Here's what it looks like in action: https://github.com/additive-process/rsvpbot/wiki/Preview
 
 (Step 0: Heed the replace comments, get your Discord bot key and deploy it! If this is your first time deploying a Discord bot, don't panic - it's easy! I used this guide to get started while knowing very little about Python https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
 
